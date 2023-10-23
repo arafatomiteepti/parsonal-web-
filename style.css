@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+font-size: 60px;
+display: inline;
+}
+h2{
+ font-size: 40px;
+ display: inline;
+}
+    .half-width{
+        width: 36%;
+        
+       
+       
+    }
+    .half-width img{
+        width: 100%;
+        margin-bottom: 85px;
+        margin-top: 70px;
+        
+    }
+.top{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: fixed;
+}
+
+.pink-color{
+
+color: rgb(255, 3, 179);
+
+}
+.link{
+background-color: rgb(255, 3, 179);
+text-decoration: none;
+padding:10px 20px;
+border-radius: 5px;
+color: blanchedalmond;
+font-weight: 800;
+}
+.secend-blog{
+    background-image: url(image/biography-bg.png);
+
+}
+#change{
+    margin-left: 100px;
+}
+.thard h2{
+    text-align: center;
+    
+}
+
+.thard{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 30%;
+}
+.work-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.thard{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+

@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "abusaidm.html-snippets",
+        "sidthesloth.html5-boilerplate",
+        "jakewilson.vscode-picture",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-rename-tag",
+        "jasonnutter.search-node-modules",
+        "ritwickdey.liveserver"
+    ]
+}
